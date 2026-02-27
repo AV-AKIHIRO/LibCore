@@ -1,6 +1,6 @@
-# Library Management System (LMS) – Terminal Application
+# LibCore (LMS) – Terminal Application
 
-The **Library Management System (LMS)** is a terminal-based application designed for efficient and secure management of a library's operations. It supports functionalities for managing users, books, and transactions. The system features a client-server architecture and is implemented in C using OS-level concepts such as multithreading and synchronization.
+The **LibCore (LMS)** is a terminal-based application designed for efficient and secure management of a library's operations. It supports functionalities for managing users, books, and transactions. The system features a client-server architecture and is implemented in C using OS-level concepts such as multithreading and synchronization.
 
 ---
 
@@ -83,9 +83,3 @@ Unit tests are implemented using **CUnit**. To run the test suite:
 
 ---
 
-##  Team Members – Team 6
-
-- **Areen Vaghasiya** (IMT2022048)  
-- **Prateek Rath** (IMT2022017)  
-- **Rudra Pathak** (IMT2022081)  
-- **Kandarp Dave** (IMT2022115)
